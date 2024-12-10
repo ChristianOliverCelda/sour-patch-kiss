@@ -32,7 +32,7 @@ Run the development server:
 bash
 Copy code
 npm start  
-Open your browser and navigate to http://localhost:3000 to see Sour Patch Kiss in action!
+Open your browser and navigate to https://www.leafly.com/strains/sour-patch-kiss to see Sour Patch Kiss in action!
 
 🌟 How It Works
 Sour Patch Kiss features a playful toggle between two modes:
